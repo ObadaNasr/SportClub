@@ -1,0 +1,34 @@
+li a, nav a{
+    color:white;
+}
+li a:hover{
+    color:white !important;
+    opacity: 0.8;
+}
+li a:active{
+    opacity: 0.5;
+}
+nav a:hover{
+    color:white !important;
+
+}
+.Img{
+    color: red;
+}
+
+#language a:hover{
+    color:black !important;
+}
+.navbar-light .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;..");
+}
+.Img{
+    background-size:     cover;      
+    left:0;
+    right:0;
+    position: relative;
+
+}
+table thead tr{
+    width:30rem;
+}
